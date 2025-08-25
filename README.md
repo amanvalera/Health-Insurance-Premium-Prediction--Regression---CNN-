@@ -1,23 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/58HShPQN)
-# Data Mining and Machine Learning Group Coursework
-
-> [!NOTE]
-> You should update and customize this README as the project progresses.
-
-> [!IMPORTANT]
-> See the COURSEWORK specification on CANVAS for details of the group coursework criteria/deliverables
-## **Group Name : D-AS3I-ML**
-
-## Group Members
-> [!IMPORTANT]
-> Include your names and `@` your GitHub usernames for each.
-
-1. Aman Valera @ amanvalera7
-2. Sai Ruthik Katta @ SaiRuthik
-3. Samarth Rathi @ SamarthRathiH00422752
-4. Suhashini Selvaraj @ Suhashini-Selvaraj
-
-## **Project Title : Predicting Health Insurance Premium using Regression Model with Age and Gender Detection from Image using CNN**
+## **Predicting Health Insurance Premium using Regression Model with Age and Gender Detection from Image using CNN**
 
 ## Initial Project Proposal
 
